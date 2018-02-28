@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorRing", "ColorRing.csproj", "{1FC65C61-3762-2C70-9D91-F70DE0F63A23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorRing.Plugins", "ColorRing.Plugins.csproj", "{14C33D01-2AB4-4BA8-74C4-64F7406CE0F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorRing.Editor", "ColorRing.Editor.csproj", "{C918932E-E1C4-1EE7-A0C0-1E125935D67F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorRing.Editor.Plugins", "ColorRing.Editor.Plugins.csproj", "{6DD1E38D-F7C7-CEA0-8FF9-F7DAF7BB9520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FC65C61-3762-2C70-9D91-F70DE0F63A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC65C61-3762-2C70-9D91-F70DE0F63A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC65C61-3762-2C70-9D91-F70DE0F63A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC65C61-3762-2C70-9D91-F70DE0F63A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14C33D01-2AB4-4BA8-74C4-64F7406CE0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C33D01-2AB4-4BA8-74C4-64F7406CE0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C33D01-2AB4-4BA8-74C4-64F7406CE0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C33D01-2AB4-4BA8-74C4-64F7406CE0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C918932E-E1C4-1EE7-A0C0-1E125935D67F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C918932E-E1C4-1EE7-A0C0-1E125935D67F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C918932E-E1C4-1EE7-A0C0-1E125935D67F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C918932E-E1C4-1EE7-A0C0-1E125935D67F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DD1E38D-F7C7-CEA0-8FF9-F7DAF7BB9520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD1E38D-F7C7-CEA0-8FF9-F7DAF7BB9520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD1E38D-F7C7-CEA0-8FF9-F7DAF7BB9520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD1E38D-F7C7-CEA0-8FF9-F7DAF7BB9520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

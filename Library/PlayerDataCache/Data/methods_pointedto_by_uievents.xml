@@ -1,0 +1,53 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="UIManager">
+			<method name="ButtonClickSound"/>
+			<method name="HandleChangeRingButton"/>
+			<method name="ButtonClickSound"/>
+			<method name="ShowSettingsUI"/>
+			<method name="ButtonClickSound"/>
+			<method name="HandleRestartButton"/>
+			<method name="ButtonClickSound"/>
+			<method name="ButtonClickSound"/>
+			<method name="HandlePauseButton"/>
+			<method name="CallEvent"/>
+			<method name="ButtonClickSound"/>
+			<method name="HandleReviewButton"/>
+			<method name="ShareScreenshot"/>
+			<method name="HideShareUI"/>
+			<method name="ButtonClickSound"/>
+			<method name="HideSettingsUI"/>
+			<method name="ButtonClickSound"/>
+			<method name="RateApp"/>
+			<method name="ButtonClickSound"/>
+			<method name="ShowLeaderboardUI"/>
+			<method name="ButtonClickSound"/>
+			<method name="ShowLeaderboardUI"/>
+			<method name="ButtonClickSound"/>
+			<method name="ButtonClickSound"/>
+			<method name="HandleSoundButton"/>
+			<method name="ButtonClickSound"/>
+			<method name="HandlePlayButton"/>
+			<method name="ButtonClickSound"/>
+			<method name="HandleSoundButton"/>
+			<method name="ButtonClickSound"/>
+			<method name="ContactUs"/>
+			<method name="ButtonClickSound"/>
+			<method name="HandlePlayButtonOnPauseCanvas"/>
+			<method name="ButtonClickSound"/>
+			<method name="ShowShareUI"/>
+			<method name="ButtonClickSound"/>
+			<method name="ButtonClickSound"/>
+			<method name="OpenTwitterPage"/>
+			<method name="ButtonClickSound"/>
+			<method name="ShowSettingsUI"/>
+		</type>
+		<type fullname="Purchaser">
+			<method name="BuyNonConsumable"/>
+			<method name="RestorePurchases"/>
+		</type>
+		<type fullname="UnityAds">
+			<method name="ShowAd"/>
+		</type>
+	</assembly>
+</linker>
